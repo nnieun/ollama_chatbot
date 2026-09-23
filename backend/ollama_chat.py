@@ -44,7 +44,8 @@ def call_ollama_chat(
     # API가 사용할 결과를 딕셔너리로 반환합니다.
     return {
         "model": model,
-        "ai_message": response.message.content, # response.message.content가 AI의 실제 답변 텍스트입니다.
+        # "ai_message": response.message.content, # response.message.content가 AI의 실제 답변 텍스트입니다.
+        "message": response.message.content,
         "elapsed_time": elapsed_time
     }
 
