@@ -1,3 +1,3 @@
 ## 화면
 
-![alt text](./image/image.png)
+![alt text](image.png)
