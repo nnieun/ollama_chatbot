@@ -1,0 +1,30 @@
+To use the fastapi command, please install "fastapi[standard]":
+
+	pip install "fastapi[standard]"
+
+Traceback (most recent call last):
+  File "/home/aiuser/ollama_chatbot/backend/.venv/bin/fastapi", line 10, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/aiuser/ollama_chatbot/backend/.venv/lib/python3.14/site-packages/fastapi/cli.py", line 12, in main
+    raise RuntimeError(message)  # noqa: B904
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: To use the fastapi command, please install "fastapi[standard]":
+
+	pip install "fastapi[standard]"
+
+To use the fastapi command, please install "fastapi[standard]":
+
+	pip install "fastapi[standard]"
+
+Traceback (most recent call last):
+  File "/home/aiuser/ollama_chatbot/backend/.venv/bin/fastapi", line 10, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/aiuser/ollama_chatbot/backend/.venv/lib/python3.14/site-packages/fastapi/cli.py", line 12, in main
+    raise RuntimeError(message)  # noqa: B904
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: To use the fastapi command, please install "fastapi[standard]":
+
+	pip install "fastapi[standard]"
+
